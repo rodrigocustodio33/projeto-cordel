@@ -26,6 +26,7 @@ header{
 header > h1{
     padding-top: 50px;
     font-variant: small-caps;
+    font-size: 4vw;
     font-family: var(--font1);
 
 }
@@ -38,6 +39,7 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
+    font-size: 1.2em;
     
 }
 
